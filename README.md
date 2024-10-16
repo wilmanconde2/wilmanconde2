@@ -1,8 +1,8 @@
-# **Hi there 👋**
+## **Hi there 👋**
 
 I´m a full stack junior software developer from Colombia. I mainly code in Javascript, but always learning all I can. Deeply interested in software architecture, clean code, DevOps, and project maintainability.
 
-# **A little about me**
+## **A little about me**
 
 English (*C1*) / Spanish (*Native*)
 👀 I’m interested in software development (*frontend and backend*)
@@ -11,7 +11,7 @@ English (*C1*) / Spanish (*Native*)
 
 ![Programmer](https://cdn.pixabay.com/photo/2023/11/05/02/07/ai-generated-8366100_1280.jpg)
 
-# **Languages**
+## **Languages**
 
 Javascript
 Python
@@ -20,7 +20,7 @@ CSS
 SASS
 MongoDB
 
-# **Tools**
+## **Tools**
 
 Git
 React
