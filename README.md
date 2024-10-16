@@ -27,5 +27,4 @@ I´m a full stack junior software developer from Colombia. I mainly code in Java
 * Bootstrap
 * NodeJs
 * ExpressJs
-* Typescript
 * Mongoose
