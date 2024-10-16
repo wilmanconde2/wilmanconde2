@@ -18,11 +18,11 @@ I´m a full stack junior software developer from Colombia. I mainly code in Java
 * HTML
 * CSS
 * SASS
-* MongoDB
 
 ## **Tools**
 
 * Git
+* MongoDB
 * React
 * Bootstrap
 * NodeJs
