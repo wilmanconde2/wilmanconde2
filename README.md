@@ -1,10 +1,10 @@
 ## **Hi there 👋**
 
-I´m a full stack junior software developer from Colombia. I mainly code in Javascript, but always learning all I can. Deeply interested in software architecture, clean code, DevOps, and project maintainability.
+🧔 I´m a full stack junior software developer from Colombia. I mainly code in Javascript, but always learning all I can. Deeply interested in software architecture, clean code, DevOps, and project maintainability.
 
 ## **A little about me**
 
-* English (*C1*) / Spanish (*Native*)
+* 🤖 English (*C1*) / Spanish (*Native*)
 * 👀 I’m interested in software development (*frontend and backend*)
 * 🌱 I’m looking for a junior developer position and to collaborate with the developer community
 * 📫 You can contact me at **willconde2@hotmail.com** or [LinkedIn](https://www.linkedin.com/in/wilman-conde/)
