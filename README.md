@@ -28,3 +28,5 @@
 * NodeJs
 * ExpressJs
 * Mongoose
+
+[![<wilmanconde2's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmanconde2)](https://github.com/wilmanconde2/github-readme-stats)
