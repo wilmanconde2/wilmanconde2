@@ -10,7 +10,7 @@
 * :seedling: I´m working as a freelance developer and I´m looking for a ***junior developer*** position.
 * :link: Learning and looking to collaborate with the open source community. 
 * :inbox_tray: Ping me about (***Javascript, HTML, CSS, React, Node***)
-* :mailbox_with_mail: You can contact me at [LinkedIn](https://www.linkedin.com/in/wilman-conde/)
+* :mailbox_with_mail: You can contact me at [LinkedIn](https://www.linkedin.com/in/wilman-conde/) or check my portfolio ***https://digital-portfolio-wc.netlify.app/***
 
 ![Programmer](https://cdn.pixabay.com/photo/2023/11/05/02/07/ai-generated-8366100_1280.jpg)
 
