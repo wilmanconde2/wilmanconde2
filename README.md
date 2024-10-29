@@ -1,6 +1,6 @@
 ## **Hi there 👋**
 
-🧔 I´m a full stack junior developer from Colombia. I mainly code in Javascript, but always learning all I can. Deeply interested in software architecture, clean code, DevOps, and project maintainability.
+🧔 I´m a full stack junior developer from Cali - Colombia. I mainly code in Javascript, but always learning all I can. Deeply interested in software architecture, clean code, DevOps, and project maintainability.
 
 ## **A little about me**
 
