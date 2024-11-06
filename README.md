@@ -5,7 +5,7 @@
 ## **A little about me**
 
 * :calendar: Currently studying ***Project Management and Scrum Fundamentals***
-* :robot: English (***C1***) / Spanish (***Native***)
+* :robot: English (***B2***) / Spanish (***Native***)
 * :eyes: I´m interested in software development (***frontend and backend***) (***Javascript, React, Node***)
 * :seedling: I´m working as a freelance developer and I´m looking for a ***junior developer*** position.
 * :link: Learning and looking to collaborate with the open source community. 
